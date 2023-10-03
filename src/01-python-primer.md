@@ -1,8 +1,8 @@
 ---
 title: Python primer
-author: 
+date:
+lecturer: Hak 
 ---
-@import "lecture_style.less"
 
 # Python Primer
 
