@@ -1,8 +1,9 @@
 ---
-title: Python primer
-date:
-lecturer: Hak 
----
+title: "Python primer"
+author: [ZHANG Luping]
+date: "2023-09"
+keywords: [Python, Object-oriented programming]
+...
 
 # Python Primer
 
